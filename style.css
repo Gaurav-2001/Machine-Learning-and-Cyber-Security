@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Century Gothic;
+}
+ul{
+    float: right;
+    list-style-type: none;
+    margin-top: 60px;
+}
+ul li{
+    display: inline-block;
+}
+ul li a{
+    text-decoration: none;
+    color: black;
+    padding: 10px 30px;
+    border: 1px solid black;
+    transition: 0.6s ease;
+
+}
+ul li a:hover{
+    background-color: red;
+    color: blue;
+}
+.main{
+    max-width: 1200px;
+    margin: auto;
+}
+.title{
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+
+.title h1{
+    color:black;
+    size: 500px;
+}
