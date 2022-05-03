@@ -21,3 +21,5 @@ Speaking of one such attack is DDoS So using the concepts and tools of devops ma
 ✔Docker images with DoS attack tool
 
 ### Demo Link - [Link](https://drive.google.com/file/d/1dRkgKsTqYjJbRoS4tHL5xr8U2fPkw3Qe/view?usp=sharing)
+
+### Article Link - [Link](https://gauravpagare2001.medium.com/machine-learning-for-cybersecurity-f170e17d9b2d)
